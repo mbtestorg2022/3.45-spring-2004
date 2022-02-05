@@ -6,34 +6,551 @@ uid: 815b4639-d71f-daeb-feb3-39b6d2315194
 
 All readings are sections from the course textbook - O'Handley, R. C. _Modern Magnetic Materials, Principles and Applications_. New York: John Wiley and Sons, 1999. ISBN: 9780471155669.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} _Introduction_ {{< br >}}{{< br >}} Course Ground Rules and Overview {{< br >}}{{< br >}} Approach: Microscopic to Macroscopic, Impact of Magnetism on Technology (Power, Recording, Magneto-mechanical, Transportation, Security, Sensors, Actuators), Basic Scientific Questions in Magnetism {{< br >}}{{< br >}}  | 1.2, 1.3.2, 1.4, 1.4.3, 1.5, 1.6.1 |
-| {{< td-colspan 3 >}}**Classical Magnetism**{{< /td-colspan >}} |||
-| 2 |  {{< br >}}{{< br >}} _Magnetostatics_ {{< br >}}{{< br >}} Origin of Magnetic Fields in and about Magnetized Materials {{< br >}}{{< br >}} Maxwell's Equations Give Boundary Conditions on _B_ and _H_ {{< br >}}{{< br >}}  | 2.1-2.4 |
-| 3 |  {{< br >}}{{< br >}} _Magnetostatics (cont.)_ {{< br >}}{{< br >}} Demagnetization Factors {{< br >}}{{< br >}} Quantitative Magnetostatics and Fields Due to Periodic Domains {{< br >}}{{< br >}}  | 2.6 |
-| 4 |  {{< br >}}{{< br >}} _Where Do Magnetic Moments Come From?_ {{< br >}}{{< br >}} Classical Free Electron Theory of Magnetism {{< br >}}{{< br >}} Orbital Gyromagnetic Ratio {{< br >}}{{< br >}} Diamagnetism, Paramagnetism {{< br >}}{{< br >}}  | 3.1-3.3, 3.4-3.5 (light), 3.5.2 |
-| {{< td-colspan 3 >}}**Quantum Mechanics and Magnetism in Oxides and Metals**{{< /td-colspan >}} |||
-| 5 |  {{< br >}}{{< br >}} _Spin, Anomalous Zeeman Effect, and Ferromagnetism_ {{< br >}}{{< br >}} Spin Quantum Numbers: _l, s, j_ {{< br >}}{{< br >}} Gyromagnetic Ratios for Orbital and Spin Moments {{< br >}}{{< br >}} Quantum Theory of Paramagnetism {{< br >}}{{< br >}} Extend Quantum Paramagnet via Graphical and Analytic Solution for Brillouin Function for Ferromagnetism {{< br >}}{{< br >}}  | 3.5.3, 3.6 (skip 3.6.1, 3.6.2), 3.7.1, 3.7.2 |
-| 6 |  {{< br >}}{{< br >}} _Exchange in Insulators_ {{< br >}}{{< br >}} Quantum Origin of Magnetism {{< br >}}{{< br >}} Intra-atomic, Hund's Rules {{< br >}}{{< br >}} Superexchange, in Oxides, Internal Pressure of Magnetism {{< br >}}{{< br >}}  | 4.1 (concepts), Fig. 4.3, 4.1.6, 4.2, 4.3, 4.4 |
-| 7 |  {{< br >}}{{< br >}} _Bonding and Magnetism_ {{< br >}}{{< br >}} Molecular Orbitals in Metals {{< br >}}{{< br >}} Slater Pauling Curves, Curie Temperature {{< br >}}{{< br >}} Band Theories of Magnetism {{< br >}}{{< br >}}  | 5.1, 5.2, 5.3 (partial), 5.4-5.6 |
-| {{< td-colspan 3 >}}**Magnetic Energies**{{< /td-colspan >}} |||
-| 8 |  {{< br >}}{{< br >}} _Magnetic Anisotropy_ {{< br >}}{{< br >}} Magnetic Anistropy Data, Energy to Magnetize, Phenomenology {{< br >}}{{< br >}} Ingredients of Magnetic Anisotropy {{< br >}}{{< br >}} Anisotropy in Metals and Insulators, Temperature Dependence {{< br >}}{{< br >}}  | 6.1, 6.2, 6.3 (concepts), 6.4(concepts), 6.5 (refer to 2.5) |
-| 9 |  {{< br >}}{{< br >}} _Torque Measurement of Magnetic Anisotropy_ {{< br >}}{{< br >}} Observations of Magnetostriction, Macroscopic Phenomenology, Data for Metals and Oxides {{< br >}}{{< br >}}  | 7.1, 7.2  (some quant.), 7.3, 7.4 (concepts) |
-| 10 |  {{< br >}}{{< br >}} _Magnetoelastic Anisotropy_ {{< br >}}{{< br >}} Influence of Stress on Magnetization {{< br >}}{{< br >}} Temperature Dependence {{< br >}}{{< br >}} Measurement Techniques {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 7.5-7.6 (concept), 7.7 {{< br >}}{{< br >}} Appendix 7A (summary of Zeeman, anisotropy) {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} _Magnetic Domain Walls and Domains_ {{< br >}}{{< br >}} Exchange Energy, Width and Energy Density of Domain Walls {{< br >}}{{< br >}} Bloch vs. Néel Walls {{< br >}}{{< br >}}  | 8.1, 8.2, 8.3.2, 8.4, 8.5, 8.5.1 |
-| 12 |  {{< br >}}{{< br >}} _Magnetic Domains_ {{< br >}}{{< br >}} Magnetic Domains, Closure Domains, Domains in Thin Films and Fine Particles {{< br >}}{{< br >}} Single Domain Particles, Superparamagnetism {{< br >}}{{< br >}}  | 8.6, 8.7 |
-| 13 |  {{< br >}}{{< br >}} _Lab Experience_ {{< br >}}{{< br >}} M-H Hysteresis Loops using Vibrating Sample Magnetometer (VSM) {{< br >}}{{< br >}} Magnetization versus Field and Temperature using VSM {{< br >}}{{< br >}} Torque Curves for Magnetic Anisotropy using Torque Magnetometer {{< br >}}{{< br >}}  |  |
-| 14 | _Analysis and Discussion of Lab Results_ |  |
-| 15 |  {{< br >}}{{< br >}} _Magnetization Processes_ {{< br >}}{{< br >}} Macroscopic Quasistatic Approach: Applied Field, Anisotropy, Magneostriction, and Dipole Energies {{< br >}}{{< br >}} Euler Equations and Boundary Conditions to Calculate Reversible Rotation {{< br >}}{{< br >}} Emphasize How Anisotropy, Magnetostriction, Resistivity affect Soft Magnetic Behavior {{< br >}}{{< br >}} Microwave Magnetism Ferromagnetic Resoanance {{< br >}}{{< br >}}  | 9.1, 9.2, 9.3.1 -9.3.3, 9.4 (qualitative), 9.5 |
-| 16 | Written Mid-term Exam |  |
-| {{< td-colspan 3 >}}**Magnetic Materials and Applications**{{< /td-colspan >}} |||
-| 17 |  {{< br >}}{{< br >}} _Soft Ferromagnetic Materials Behavior_ {{< br >}}{{< br >}} Soft Ferromagnetic Materials Behavior, Si-Fe, Fe-Ni, Fe-Co Alloys and Soft Ferrites {{< br >}}{{< br >}} Amorphous and Nanocrystalline Alloys {{< br >}}{{< br >}} DC Rotation Permeability, Irreversible Rotation {{< br >}}{{< br >}} AC Behavior, Skin Depth, Applications {{< br >}}{{< br >}} Hysteresis Loss and Eddy Current Loss {{< br >}}{{< br >}}  | 10.1-10.6 |
-| 18 |  {{< br >}}{{< br >}} _Amorphous Magnetism_ {{< br >}}{{< br >}} Amorphous Magnetism, Competing Interactions {{< br >}}{{< br >}} Exchange Fluctuations, Random Anisotropy, Resistivity {{< br >}}{{< br >}} Models of Amorphous Magnetism, Alloy Effects vs. Disorder {{< br >}}{{< br >}}  | 11.1, 11.2, 11.4.1, 11.4.3, 11.5 |
-| 19 |  {{< br >}}{{< br >}} _Nanocrystalline Magnetic Materials_ {{< br >}}{{< br >}} Exchange Fluctuations, Random Anisotropy Effects on Properties with Length Scale {{< br >}}{{< br >}}  | 12.1-12.3 |
-| 20 |  {{< br >}}{{< br >}} _Hard Magnetic Materials_ {{< br >}}{{< br >}} _M-H, B-H, (B-H)_max, Fine Particles, Nucleation, Pinning {{< br >}}{{< br >}} Materials: Alnico, Ba Ferrite, Co-RE, Fe-RE-B {{< br >}}{{< br >}}  | 13.1, 13.2 (concept), 13.4, 13.5 |
-| 21 |  {{< br >}}{{< br >}} _Transport in Magnetic Materials_ {{< br >}}{{< br >}} Electrical Conductivity of Metals and Alloys in Light of Electronic Structure {{< br >}}{{< br >}} Hall Effect and Magnetoresistance (MR), MR Heads, Mechanisms of Spin Scattering, Giant MR, Spin Tunneling {{< br >}}{{< br >}}  | 15.1-15.6, 15.7 (concept) |
-| 22 |  {{< br >}}{{< br >}} _Surface and Thin Film Magnetism_ {{< br >}}{{< br >}} Surface Electronic Structure and Magnetism, Surface Moments, Metastable Phases, Misfit Strain, Epitaxial Growth, Surface Magnetic Anisotropy and Magnetostriction, Domains, Devices {{< br >}}{{< br >}}  | 16.1-16.4 |
-| 23 |  {{< br >}}{{< br >}} _Magnetic Recording_ {{< br >}}{{< br >}} Physics of Recording {{< br >}}{{< br >}} Basic Concepts of Recording Media and Heads, Karlkvist Fields, Noise {{< br >}}{{< br >}}  | 17.1-17.4 |
-| 24 |  {{< br >}}{{< br >}} _Magnetic Recording Materials_ {{< br >}}{{< br >}} Particulate: _y_ Fe2O3 CrO2, Co-Ferric Oxide, Barium Ferrite {{< br >}}{{< br >}} Thin Film Media: Longitudinal, Perpendicular {{< br >}}{{< br >}} Thin Film Heads, MR Heads, Spin Valves, Magnetic Random Access Memories {{< br >}}{{< br >}}  | 17.5-17.6 |
-| 25-26 | Oral Presentations by Students (20-30 minutes) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Introduction_
+
+Course Ground Rules and Overview
+
+Approach: Microscopic to Macroscopic, Impact of Magnetism on Technology (Power, Recording, Magneto-mechanical, Transportation, Security, Sensors, Actuators), Basic Scientific Questions in Magnetism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+1.2, 1.3.2, 1.4, 1.4.3, 1.5, 1.6.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Classical Magnetism**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetostatics_
+
+Origin of Magnetic Fields in and about Magnetized Materials
+
+Maxwell's Equations Give Boundary Conditions on _B_ and _H_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2.1-2.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetostatics (cont.)_
+
+Demagnetization Factors
+
+Quantitative Magnetostatics and Fields Due to Periodic Domains
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Where Do Magnetic Moments Come From?_
+
+Classical Free Electron Theory of Magnetism
+
+Orbital Gyromagnetic Ratio
+
+Diamagnetism, Paramagnetism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+3.1-3.3, 3.4-3.5 (light), 3.5.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Quantum Mechanics and Magnetism in Oxides and Metals**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Spin, Anomalous Zeeman Effect, and Ferromagnetism_
+
+Spin Quantum Numbers: _l, s, j_
+
+Gyromagnetic Ratios for Orbital and Spin Moments
+
+Quantum Theory of Paramagnetism
+
+Extend Quantum Paramagnet via Graphical and Analytic Solution for Brillouin Function for Ferromagnetism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+3.5.3, 3.6 (skip 3.6.1, 3.6.2), 3.7.1, 3.7.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Exchange in Insulators_
+
+Quantum Origin of Magnetism
+
+Intra-atomic, Hund's Rules
+
+Superexchange, in Oxides, Internal Pressure of Magnetism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+4.1 (concepts), Fig. 4.3, 4.1.6, 4.2, 4.3, 4.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Bonding and Magnetism_
+
+Molecular Orbitals in Metals
+
+Slater Pauling Curves, Curie Temperature
+
+Band Theories of Magnetism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+5.1, 5.2, 5.3 (partial), 5.4-5.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Magnetic Energies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetic Anisotropy_
+
+Magnetic Anistropy Data, Energy to Magnetize, Phenomenology
+
+Ingredients of Magnetic Anisotropy
+
+Anisotropy in Metals and Insulators, Temperature Dependence
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+6.1, 6.2, 6.3 (concepts), 6.4(concepts), 6.5 (refer to 2.5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Torque Measurement of Magnetic Anisotropy_
+
+Observations of Magnetostriction, Macroscopic Phenomenology, Data for Metals and Oxides
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+7.1, 7.2  (some quant.), 7.3, 7.4 (concepts)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetoelastic Anisotropy_
+
+Influence of Stress on Magnetization
+
+Temperature Dependence
+
+Measurement Techniques
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+7.5-7.6 (concept), 7.7
+
+Appendix 7A (summary of Zeeman, anisotropy)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetic Domain Walls and Domains_
+
+Exchange Energy, Width and Energy Density of Domain Walls
+
+Bloch vs. Néel Walls
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+8.1, 8.2, 8.3.2, 8.4, 8.5, 8.5.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetic Domains_
+
+Magnetic Domains, Closure Domains, Domains in Thin Films and Fine Particles
+
+Single Domain Particles, Superparamagnetism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+8.6, 8.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Lab Experience_
+
+M-H Hysteresis Loops using Vibrating Sample Magnetometer (VSM)
+
+Magnetization versus Field and Temperature using VSM
+
+Torque Curves for Magnetic Anisotropy using Torque Magnetometer
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+_Analysis and Discussion of Lab Results_
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetization Processes_
+
+Macroscopic Quasistatic Approach: Applied Field, Anisotropy, Magneostriction, and Dipole Energies
+
+Euler Equations and Boundary Conditions to Calculate Reversible Rotation
+
+Emphasize How Anisotropy, Magnetostriction, Resistivity affect Soft Magnetic Behavior
+
+Microwave Magnetism Ferromagnetic Resoanance
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+9.1, 9.2, 9.3.1 -9.3.3, 9.4 (qualitative), 9.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Written Mid-term Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Magnetic Materials and Applications**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Soft Ferromagnetic Materials Behavior_
+
+Soft Ferromagnetic Materials Behavior, Si-Fe, Fe-Ni, Fe-Co Alloys and Soft Ferrites
+
+Amorphous and Nanocrystalline Alloys
+
+DC Rotation Permeability, Irreversible Rotation
+
+AC Behavior, Skin Depth, Applications
+
+Hysteresis Loss and Eddy Current Loss
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+10.1-10.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Amorphous Magnetism_
+
+Amorphous Magnetism, Competing Interactions
+
+Exchange Fluctuations, Random Anisotropy, Resistivity
+
+Models of Amorphous Magnetism, Alloy Effects vs. Disorder
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+11.1, 11.2, 11.4.1, 11.4.3, 11.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Nanocrystalline Magnetic Materials_
+
+Exchange Fluctuations, Random Anisotropy Effects on Properties with Length Scale
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+12.1-12.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Hard Magnetic Materials_
+
+_M-H, B-H, (B-H)_max, Fine Particles, Nucleation, Pinning
+
+Materials: Alnico, Ba Ferrite, Co-RE, Fe-RE-B
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+13.1, 13.2 (concept), 13.4, 13.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Transport in Magnetic Materials_
+
+Electrical Conductivity of Metals and Alloys in Light of Electronic Structure
+
+Hall Effect and Magnetoresistance (MR), MR Heads, Mechanisms of Spin Scattering, Giant MR, Spin Tunneling
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15.1-15.6, 15.7 (concept)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Surface and Thin Film Magnetism_
+
+Surface Electronic Structure and Magnetism, Surface Moments, Metastable Phases, Misfit Strain, Epitaxial Growth, Surface Magnetic Anisotropy and Magnetostriction, Domains, Devices
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+16.1-16.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetic Recording_
+
+Physics of Recording
+
+Basic Concepts of Recording Media and Heads, Karlkvist Fields, Noise
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+17.1-17.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Magnetic Recording Materials_
+
+Particulate: _y_ Fe2O3 CrO2, Co-Ferric Oxide, Barium Ferrite
+
+Thin Film Media: Longitudinal, Perpendicular
+
+Thin Film Heads, MR Heads, Spin Valves, Magnetic Random Access Memories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+17.5-17.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations by Students (20-30 minutes)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
