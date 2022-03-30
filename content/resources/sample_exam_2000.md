@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-45-magnetic-materials-spring-2004/0bc5d5f8f671c53d35e13c35c6b1b3e1_sample_exam_2000.pdf
 file_type: application/pdf
+parent_uid: de86ae57-1a7b-a7b8-8938-c263a907b65a
 resourcetype: Document
 title: sample_exam_2000.pdf
 uid: 0bc5d5f8-f671-c53d-35e1-3c35c6b1b3e1
